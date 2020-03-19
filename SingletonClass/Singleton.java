@@ -13,7 +13,7 @@ public class Singleton {
     }
     /* Other methods protected by singleton-ness */
     protected static void demoMethod( ) {
-       System.out.println("demoMethod for singleton"); 
+       System.out.println("\n\nMethod for singleton\n\n"); 
     }
  }
      
